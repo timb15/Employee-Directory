@@ -38,7 +38,7 @@ $(document).ready( function () {
                             <p class="modal-text cap">${user.location.city}</p>
                             <hr>
                             <p class="modal-text">${user.phone}</p>
-                            <p class="modal-text cap" >${user.location.street}, ${user.location.city}, 
+                            <p class="modal-text cap" >${user.location.street},  
                             ${user.location.state.slice(0,2).toUpperCase()} ${user.location.postcode}</p>
                             <p class="modal-text">Birthday: ${user.dob.date.slice(0,10)}</p>
                             </div>
