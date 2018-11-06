@@ -16,7 +16,7 @@ html, body {
 body {
     font-family: "Nunito", sans-serif;
     text-align: center;
-    background: rgba(235, 235, 235, 0.9);
+    background: rgba(230, 233, 189, 0.9);
 }
 
 header {
@@ -142,7 +142,7 @@ header h1 {
     padding-bottom: 15px;
     background: rgba(255, 255, 255, 1);
     border-radius: 0.25em;
-    border: 1px solid rgba(100, 100, 100, 0.3);
+    border: 5px solid rgb(255, 255, 255);
     transition: .4s ease-out;
 }
 
@@ -188,9 +188,7 @@ header h1 {
     max-width: 420px;
     padding: 10px 15px 15px;;
     margin: 10px auto auto;
-    background: rgba(255, 255, 255, 1);
     border-radius: 0.25em;
-    border: 1px solid rgba(100, 100, 100, 0.3);
 }
 
 
