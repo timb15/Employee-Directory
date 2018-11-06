@@ -1,0 +1,3 @@
+This project is going for Exceeds expectations. There are "prev" and "next" buttons on the modal to cycle through employees. 
+There is an added search function to search the directory by employee name.
+CSS has been changed dynamically on the modal and displays a color based on the employee gender.
